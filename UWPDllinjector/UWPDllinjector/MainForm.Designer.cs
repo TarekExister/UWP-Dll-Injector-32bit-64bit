@@ -279,7 +279,6 @@
             this.txtProcessName.Font = new System.Drawing.Font("Consolas", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtProcessName.Location = new System.Drawing.Point(92, 91);
             this.txtProcessName.Name = "txtProcessName";
-            this.txtProcessName.ReadOnly = true;
             this.txtProcessName.Size = new System.Drawing.Size(226, 20);
             this.txtProcessName.TabIndex = 7;
             // 
@@ -296,7 +295,7 @@
             this.btnSelect.Name = "btnSelect";
             this.btnSelect.Size = new System.Drawing.Size(78, 27);
             this.btnSelect.TabIndex = 6;
-            this.btnSelect.Text = "Selelct";
+            this.btnSelect.Text = "Select";
             this.btnSelect.UseVisualStyleBackColor = false;
             this.btnSelect.Click += new System.EventHandler(this.btnSelect_Click);
             this.btnSelect.MouseEnter += new System.EventHandler(this.btnSelect_MouseEnter);
