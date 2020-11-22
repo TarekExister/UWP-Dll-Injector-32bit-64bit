@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 
@@ -102,11 +96,11 @@ namespace UWPDllinjector
                 {
                     DllPermission.SetDllPermission(dllPath);
                     InjectDll.Injectlibrary(pid, dllPath);
-                    MessageBox.Show("Dll Injected successfully");
+                    new MsgGui("Dll Injected successfully").ShowDialog();
                 }
-                else MessageBox.Show("Incorrect DllPath");
+                else new MsgGui("Incorrect DllPath").ShowDialog();
             }
-            else MessageBox.Show("Process Not Found");
+            else new MsgGui("Process Not Found").ShowDialog();
         }
 
         private void btnSelect_MouseEnter(object sender, EventArgs e)

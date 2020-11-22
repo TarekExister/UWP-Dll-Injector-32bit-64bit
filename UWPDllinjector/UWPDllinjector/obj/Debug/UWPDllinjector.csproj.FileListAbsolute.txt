@@ -9,3 +9,15 @@ C:\Users\Tarek\Documents\Projects\UWPDllinjector\UWPDllinjector\obj\Debug\UWPDll
 C:\Users\Tarek\Documents\Projects\UWPDllinjector\UWPDllinjector\obj\Debug\UWPDllinjector.pdb
 C:\Users\Tarek\Documents\Projects\UWPDllinjector\UWPDllinjector\obj\Debug\UWPDllinjector.MainForm.resources
 C:\Users\Tarek\Documents\Projects\UWPDllinjector\UWPDllinjector\obj\Debug\UWPDllinjector.FrmList.resources
+C:\Users\Tarek\Documents\GitHub\UWP-Dll-Injector-32bit-64bit\UWPDllinjector\UWPDllinjector\bin\Debug\UWPDllinjector.exe.config
+C:\Users\Tarek\Documents\GitHub\UWP-Dll-Injector-32bit-64bit\UWPDllinjector\UWPDllinjector\bin\Debug\UWPDllinjector.exe
+C:\Users\Tarek\Documents\GitHub\UWP-Dll-Injector-32bit-64bit\UWPDllinjector\UWPDllinjector\bin\Debug\UWPDllinjector.pdb
+C:\Users\Tarek\Documents\GitHub\UWP-Dll-Injector-32bit-64bit\UWPDllinjector\UWPDllinjector\obj\Debug\UWPDllinjector.csprojAssemblyReference.cache
+C:\Users\Tarek\Documents\GitHub\UWP-Dll-Injector-32bit-64bit\UWPDllinjector\UWPDllinjector\obj\Debug\UWPDllinjector.FrmList.resources
+C:\Users\Tarek\Documents\GitHub\UWP-Dll-Injector-32bit-64bit\UWPDllinjector\UWPDllinjector\obj\Debug\UWPDllinjector.MainForm.resources
+C:\Users\Tarek\Documents\GitHub\UWP-Dll-Injector-32bit-64bit\UWPDllinjector\UWPDllinjector\obj\Debug\UWPDllinjector.Properties.Resources.resources
+C:\Users\Tarek\Documents\GitHub\UWP-Dll-Injector-32bit-64bit\UWPDllinjector\UWPDllinjector\obj\Debug\UWPDllinjector.MsgGui.resources
+C:\Users\Tarek\Documents\GitHub\UWP-Dll-Injector-32bit-64bit\UWPDllinjector\UWPDllinjector\obj\Debug\UWPDllinjector.csproj.GenerateResource.cache
+C:\Users\Tarek\Documents\GitHub\UWP-Dll-Injector-32bit-64bit\UWPDllinjector\UWPDllinjector\obj\Debug\UWPDllinjector.csproj.CoreCompileInputs.cache
+C:\Users\Tarek\Documents\GitHub\UWP-Dll-Injector-32bit-64bit\UWPDllinjector\UWPDllinjector\obj\Debug\UWPDllinjector.exe
+C:\Users\Tarek\Documents\GitHub\UWP-Dll-Injector-32bit-64bit\UWPDllinjector\UWPDllinjector\obj\Debug\UWPDllinjector.pdb
